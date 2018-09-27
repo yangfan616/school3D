@@ -1,0 +1,36 @@
+E:\ArcGis\程序\School3D\School3D\bin\Debug\School3D.exe
+E:\ArcGis\程序\School3D\School3D\bin\Debug\School3D.pdb
+E:\ArcGis\程序\School3D\School3D\obj\x86\Debug\School3D.csprojResolveAssemblyReference.cache
+E:\ArcGis\程序\School3D\School3D\obj\x86\Debug\School3D.Form1.resources
+E:\ArcGis\程序\School3D\School3D\obj\x86\Debug\School3D.Properties.Resources.resources
+E:\ArcGis\程序\School3D\School3D\obj\x86\Debug\School3D.csproj.GenerateResource.Cache
+E:\ArcGis\程序\School3D\School3D\obj\x86\Debug\School3D.exe
+E:\ArcGis\程序\School3D\School3D\obj\x86\Debug\School3D.pdb
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.exe
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.pdb
+C:\Users\Administrator\Desktop\School3D\School3D\bin\Debug\School3D.exe
+C:\Users\Administrator\Desktop\School3D\School3D\bin\Debug\School3D.pdb
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.Form1.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.Properties.Resources.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.帮助.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.FormAddtxt.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.map_operation.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.FormExportMap.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.FormAtrribute.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.FormBookMark.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.FormManageBookMarks.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.FormMeasureResult.resources
+C:\Users\Administrator\Desktop\School3D\School3D\obj\x86\Debug\School3D.start.resources
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.exe
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.pdb
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.Form1.resources
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.Properties.Resources.resources
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.帮助.resources
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\obj\x86\Debug\School3D.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\bin\Debug\School3D.exe
+C:\Users\Administrator\Desktop\School3D - 副本\School3D\bin\Debug\School3D.pdb
+C:\Users\Administrator\Desktop\gis参赛\初选\School3D - 副本\School3D\obj\x86\Debug\School3D.exe
+C:\Users\Administrator\Desktop\gis参赛\初选\School3D - 副本\School3D\obj\x86\Debug\School3D.pdb
